@@ -23,7 +23,7 @@ While I'm sure my younger self got a good chuckle out of the wording, I wasn't a
 
 **Attempt 1:** Maybe I could just add `?kongregate.com` into the URL and fool the sitelock check. No dice - the sitelock was only searching for the string in the domain itself.
 
-**Attempt 2:** open the .swf file in a hex editor. Search for `kongregate` so that I could edit the sitelock domain. Unfortunately, this was pretty naive - .swf files are compressed.
+**Attempt 2:** open the .swf file in a hex editor. Search for `kongregate` so that I could edit the sitelock domain. Unfortunately, this was pretty naive - .swf files are compiled.
 
 **Attempt 3:** While doing some research I stumbled across [JPEXS](https://github.com/jindrapetrik/jpexs-decompiler), a .swf decompiler. This was exactly what I needed - the project loaded in without any issues! I could now go to the sitelock code and bypass it.
 
