@@ -48,7 +48,7 @@ body {
   color:#373737;
   background: #f2f2f2;
   font-size: 16px;
-  font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
+  font-family: 'Noto Sans', sans-serif, 'Myriad Pro', Calibri, Helvetica, Arial;
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
 }
@@ -57,12 +57,13 @@ h1, h2, h3, h4, h5, h6 {
   margin: 10px 0;
   font-weight: 700;
   color:#222222;
-  font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
+  font-family: Ubuntu, 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
+
   letter-spacing: -1px;
 }
 
 h1 {
-  font-size: 36px;
+  font-size: 32px;
   font-weight: 700;
 }
 
@@ -388,6 +389,14 @@ Full-Width Styles
 
 .float_text {
   margin: 50px 0 50px 110px;
+}
+
+.subheader {
+  color: #222;
+  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  font-size: 0.875em;
+  margin-top: -10px;
+  margin-bottom: 30px;
 }
 
 /*******************************************************************************

@@ -1,10 +1,12 @@
 ---
 layout: default
-title: (Shamelessly) Pirating my own games
+title: (Shamelessly) Stealing my own games
 ---
-# (Shamelessly) Pirating my own games
+# (Shamelessly) Stealing my own games
 
-***
+August 20, 2022
+{: class="subheader"}
+
 
 Ten years ago I was making my first games. They were pretty terrible but I didn't know any better. I published a couple on kongregate and moved on.
 
@@ -47,7 +49,7 @@ I'm confident that the only person who's tried to pirate this game, is me.
 
 ***
 
-I was able to get all of my Flash games playable again! Want to give them a shot?
+I was able to get all of my Flash games playable again. Want to give them a shot? They're bad games, but that's part of the fun!
 
 {% include gameAndDesc.html urlNum=1917852 image="flyguy" name="Fly Guy" desc="Vertical flight action. My first attempt at an original game" %}
 {% include gameAndDesc.html urlNum=1918940 image="planet" name="Unfinished Gravity Planet Sandbox" desc="Gravity-based sandbox. My first published game. Forever in Early Access" %}
