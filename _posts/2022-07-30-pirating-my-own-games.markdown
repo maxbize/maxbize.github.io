@@ -2,7 +2,7 @@
 layout: default
 title: (Shamelessly) Stealing my own games
 ---
-# (Shamelessly) Stealing my own games
+# (Shamelessly) Stealing My Own Games
 
 August 20, 2022
 {: class="subheader"}
