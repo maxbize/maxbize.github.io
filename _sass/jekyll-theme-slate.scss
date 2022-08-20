@@ -345,18 +345,34 @@ Full-Width Styles
 #header_wrap .title {
   font-size: 20px;
   margin-right: 30px;
+
+  @media screen and (max-width: 480px) {
+    font-size: 16px;
+    margin-right: 10px;
+  }
+
+  @media screen and (max-width: 330px) {
+    font-size: 12px;
+  }
+
 }
 
 #header_wrap .content {
   font-size: 14px;
-  #margin-right: 20px;
+
+  @media screen and (max-width: 480px) {
+    font-size: 10px;
+  }
+
+  @media screen and (max-width: 330px) {
+    font-size: 8px;
+  }
 }
 
 #header_wrap .seperator {
   color: #666;
   font-size: 14px;
-  margin-right: 5px;
-  margin-left: 5px;
+  margin: 0 5px;
 
     -webkit-touch-callout: none; /* iOS Safari */
     -webkit-user-select: none; /* Safari */
@@ -366,6 +382,10 @@ Full-Width Styles
             user-select: none; /* Non-prefixed version, currently
                                   supported by Chrome, Edge, Opera and Firefox */
 
+  @media screen and (max-width: 480px) {
+    margin: 0px;
+    font-size: 10px;
+  }
 }
 
 
