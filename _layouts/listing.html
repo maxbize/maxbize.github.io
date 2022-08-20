@@ -21,22 +21,22 @@ layout: default
     {%- if page.list_title -%}
       <h2 class="post-list-heading">{{ page.list_title }}</h2>
     {%- endif -%}
-    <ul class="post-list">
+    <table class="post-list">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       {%- for post in posts -%}
-      <li class="post-item">
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <span>
+      <tr class="post-item">
+        <td class="post-meta">{{ post.date | date: date_format }}</td>
+        <td class="post-link">
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
-        </span>
+        </td>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
-      </li>
+      </tr>
       {%- endfor -%}
-    </ul>
+    </table>
 
     {% if site.paginate %}
       <div class="pager">

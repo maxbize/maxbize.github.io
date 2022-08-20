@@ -279,19 +279,25 @@ kbd {
 }
 
 .post-meta {
-  margin-right: 20px;
   color: #444;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  font-size: 0.875em;
+  font-size: 12px;
+  #margin-right: 20px;
+  border: 0px;
+  width: 110px;
+  padding: 0;
 }
 
 .post-list {
   list-style-type: none;
   padding: 0;
+  border: 0px;
 }
 
 .post-link {
   color: #212121;
+  border: 0px;
+  padding: 0;
 }
 
 .post-item {
