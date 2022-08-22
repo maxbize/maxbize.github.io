@@ -7,10 +7,10 @@ layout: default
 
 Hey there! :wave:
 
-My name's Max and I've been making games since 2011. If you want to play them, click the Games tab at the top. 
+My name's Max and I've been making games since 2011. If you want to play them, click the [Games](/games) tab.
 
-If you're here for some gamedev stories or tutorials, check out my Articles. 
+If you're here for some gamedev stories or tutorials, check out my [Articles](/articles).
 
-If you want some updates on my work, see the Twitter or Newsletter tabs
+If you want some regular updates on my work, see the [Twitter](https://twitter.com/maxbize) or [Newsletter](/newsletter) tabs.
 
 Cheers! :smiley:
