@@ -5,6 +5,12 @@
 layout: default
 ---
 
-Use the links at the top to go somewhere interesting.
+Hey there! :wave:
 
-The only thing here is this easter egg :egg:
+My name's Max and I've been making games since 2011. If you want to play them, click the Games tab at the top. 
+
+If you're here for some gamedev stories or tutorials, check out my Articles. 
+
+If you want some updates on my work, see the Twitter or Newsletter tabs
+
+Cheers! :smiley:
