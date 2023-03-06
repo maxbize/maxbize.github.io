@@ -5,7 +5,7 @@ title: Newsletter
 
 # Get the newsletter!
 
-Expect 0 - 2 emails per month. I'll email about:
+Expect 0 - 4 emails per year. I'll email about:
 * **Articles** - Gamedev stories, technical deep dives, and more!
 * **Game Releases** - Play every game on release!
 * **Beta Builds** - Give feedback on work in progress!
